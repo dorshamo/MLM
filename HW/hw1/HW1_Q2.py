@@ -1,7 +1,3 @@
-"""
-דור שמו 207932740
-יובל רוטברג 211877592
-"""
 #function definition for finding the perfect number.
 def perfect_num(num):
     perfect_num = 0

@@ -15,10 +15,7 @@ Having '_' in a string meaning that a relevant integer number has to be determin
 Add doccumentation in the code and near every function explain in details (including meaning) what are the paramerers it gets ,
 what it does, and what does it return.
 """
-'''
-דור שמו '207932740
-יובל רוטנברג 211877592
-'''
+
 
 
 

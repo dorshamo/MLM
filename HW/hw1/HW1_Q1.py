@@ -1,7 +1,4 @@
-"""
-דור שמו 207932740
-יובל רוטברג 211877592
-"""
+
 def main():
 # creating input for the first letter in every strategy    
     print("Enter answers(R-radio, T-tv, S- social media,F-flyers, * to end)")

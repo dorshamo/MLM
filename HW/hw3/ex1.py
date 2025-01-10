@@ -1,7 +1,4 @@
-"""
-דור שמו 207932740
-יובל רוטנברג 211877592
-"""
+
 def title(STR):
     """
     take a string and writt it so that it is in lowercase letters and capital letters with uppercase.

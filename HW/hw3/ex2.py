@@ -11,10 +11,7 @@
                
 
 """
-"""
-דור שמו 207932740
-יובל רוטנברג 211877592
-"""
+
 def matrix_0(board,N):
     '''
     create a matrix full of zeros.

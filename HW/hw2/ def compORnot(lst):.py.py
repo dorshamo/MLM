@@ -1,7 +1,4 @@
-"""
-דור שמו 207932740
-יובל רוטנברג 211877592
-"""
+
 """ function to find if the list is compressable or not"""
 def compORnot(lst):
     if lst.count(0) > (len(lst)/2): 
